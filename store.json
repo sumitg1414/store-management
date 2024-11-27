@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "productName": "Mouse",
+      "description": "Wireless",
+      "category": "hp",
+      "price": "100",
+      "supplier": "hp",
+      "InStock": true
+    },
+    {
+      "id": "1",
+      "productName": "Pen",
+      "description": "Nice Pen red color",
+      "category": "Stationary",
+      "price": "10000",
+      "supplier": "private sss",
+      "InStock": true,
+      "quantity": 100
+    }
+  ]
+}
